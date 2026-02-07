@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<data>
+  <total_records>19091</total_records>
+  <training_records>15381</training_records>
+  <test_records>3710</test_records>
+  <train_percentage>80</train_percentage>
+  <test_percentage>20</test_percentage>
+  <features_count>17</features_count>
+  <features>
+    <item_0>segment_distance_km</item_0>
+    <item_1>is_timing_point</item_1>
+    <item_2>to_is_timing_point</item_2>
+    <item_3>sequence_position</item_3>
+    <item_4>is_first_stop</item_4>
+    <item_5>route_total_stops</item_5>
+    <item_6>position_ratio</item_6>
+    <item_7>is_pickup</item_7>
+    <item_8>lat_diff</item_8>
+    <item_9>lon_diff</item_9>
+    <item_10>heading_ns</item_10>
+    <item_11>heading_ew</item_11>
+    <item_12>from_latitude</item_12>
+    <item_13>from_longitude</item_13>
+    <item_14>to_latitude</item_14>
+    <item_15>to_longitude</item_15>
+    <item_16>line_name_indexed</item_16>
+  </features>
+  <target>runtime_seconds</target>
+  <seed>42</seed>
+</data>

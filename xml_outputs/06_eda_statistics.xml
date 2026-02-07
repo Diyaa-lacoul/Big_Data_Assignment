@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<data>
+  <total_segments>19283</total_segments>
+  <unique_routes>124</unique_routes>
+  <runtime_mean>82.72</runtime_mean>
+  <runtime_median>60.0</runtime_median>
+  <runtime_std>55.04</runtime_std>
+  <runtime_min>0</runtime_min>
+  <runtime_max>1620</runtime_max>
+  <distance_mean_km>0.3779</distance_mean_km>
+  <distance_max_km>8.834</distance_max_km>
+  <correlation_distance_runtime>0.5748</correlation_distance_runtime>
+  <correlation_position_runtime>0.0495</correlation_position_runtime>
+</data>
